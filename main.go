@@ -4,8 +4,8 @@ import (
 	"os"
 	"sync"
 
-	"github.com/akarachen/taze-go/pkg/structs"
-	"github.com/akarachen/taze-go/pkg/workspace"
+	"github.com/akarachen/fresh/pkg/structs"
+	"github.com/akarachen/fresh/pkg/workspace"
 	"github.com/pterm/pterm"
 	"github.com/tidwall/gjson"
 )

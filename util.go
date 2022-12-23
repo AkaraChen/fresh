@@ -23,7 +23,7 @@ var (
 )
 
 func init() {
-	pterm.DefaultSection.Printfln("Taze!")
+	pterm.DefaultSection.Printfln("Fresh!")
 	cwd, _ := os.Getwd()
 	if __DEV__ {
 		result, _ := pterm.DefaultInteractiveSelect.

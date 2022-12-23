@@ -1,4 +1,4 @@
-module github.com/akarachen/taze-go
+module github.com/akarachen/fresh
 
 go 1.19
 

@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/Masterminds/semver/v3"
-	"github.com/akarachen/taze-go/pkg/request"
+	"github.com/akarachen/fresh/pkg/request"
 	"github.com/pterm/pterm"
 	"github.com/tidwall/gjson"
 	"github.com/tidwall/sjson"

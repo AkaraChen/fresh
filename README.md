@@ -1,4 +1,4 @@
-# Taze-go
+# fresh
 
 A simple CLI tools to make your npm pacakges dependency fresh, but written in Go.
 
@@ -6,11 +6,11 @@ A simple CLI tools to make your npm pacakges dependency fresh, but written in Go
 
 1. Git clone this repo
 2. `go build`
-3. Add `taze-go[.exe]` to your `$PATH`
+3. Add `fresh[.exe]` to your `$PATH`
 
 ## Usage
 
-Just `taze-go`.
+Just `fresh`.
 
 ## Screen shot
 ![Dark theme](screenshot-dark.png)
