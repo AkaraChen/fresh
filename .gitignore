@@ -151,3 +151,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 taze-go
+.DS_Store
