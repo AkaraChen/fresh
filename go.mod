@@ -3,7 +3,7 @@ module github.com/akarachen/fresh
 go 1.19
 
 require (
-	github.com/Masterminds/semver/v3 v3.2.0
+	github.com/Masterminds/semver/v3 v3.2.1
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/mattn/go-zglob v0.0.4
 	github.com/pterm/pterm v0.12.56
